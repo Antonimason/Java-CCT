@@ -71,6 +71,7 @@ public class miniHomework {
         }
         
         }catch(IOException e){
+            System.out.print("Please follow up the following Error")
             System.out.println(e);
         }
     }
